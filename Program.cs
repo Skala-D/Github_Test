@@ -4,12 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("TEST TEST TEST TEST TEST TEST");
-            Console.WriteLine("TEST TEST TEST TEST TEST TEST");
-            Console.WriteLine("TEST TEST TEST TEST TEST TEST");
-            Console.WriteLine("TEST TEST TEST TEST TEST TEST");
-            Console.WriteLine("TEST TEST TEST TEST TEST TEST");
-
+            Console.WriteLine("I deleted my Q1 ");
         }
     }
 }
