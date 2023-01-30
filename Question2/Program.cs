@@ -40,6 +40,8 @@
         static void AverageMinMax()
         {
             int average=0;
+            int number = 0;
+            int min = 0;
 
 
             int[] integers = new int[5];
@@ -47,6 +49,7 @@
             {
                 Console.WriteLine($"Enter value number {i + 1} : ");
                 integers[i] = int.Parse(Console.ReadLine());
+                number=integers[i];
 
                 average = average + integers[i];
 
